@@ -10,3 +10,7 @@
 - [1.2] Create Order Service
 - [1.3] Create Inventory Service
 - [1.4] Create Parent Maven Project
+
+### 2: [INTER PROCESS COMMUNICATION]
+
+- [2.1] Order and Inventory Services Communication using WebClient
