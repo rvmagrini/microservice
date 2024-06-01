@@ -14,3 +14,4 @@
 ### 2: [INTER PROCESS COMMUNICATION]
 
 - [2.1] Order and Inventory Services Communication using WebClient
+- [2.2] Discovery Server using Eureka Netflix Spring Cloud
