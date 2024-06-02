@@ -15,3 +15,7 @@
 
 - [2.1] Order and Inventory Services Communication using WebClient
 - [2.2] Discovery Server using Eureka Netflix Spring Cloud
+
+### 3: [SPRING CLOUD API GATEWAY]
+
+- [3.1] Create Gateway and route Product-Order Endpoints
