@@ -19,3 +19,4 @@
 ### 3: [SPRING CLOUD API GATEWAY]
 
 - [3.1] Create Gateway and route Product-Order Endpoints
+- [3.2] Route Discovery Eureka Server
