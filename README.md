@@ -24,3 +24,7 @@
 ### 4: [SPRING SECURITY KEYCLOAK AUTH]
 
 - [4.1] Secure Endpoints of Gateway (KeyCloak) and Discovery (BasicAuth) Microservices
+
+### 5: [SPRING CLOUD CIRCUIT BREAKER RESILIENCE4J]
+
+- [5.1] Circuit Breaker Fallback Logic for Order Service (when Inventory is down)
