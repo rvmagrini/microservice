@@ -27,4 +27,5 @@
 
 ### 5: [SPRING CLOUD CIRCUIT BREAKER RESILIENCE4J]
 
-- [5.1] Circuit Breaker Fallback Logic for Order Service (when Inventory is down)
+- [5.1] Fallback Logic for Order Service (when Inventory is down)
+- [5.2] TimeOut and Retry Logic for Order Service (when Inventory is too slow)
